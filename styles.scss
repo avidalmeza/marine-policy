@@ -1,0 +1,49 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+$open-sans: "Open Sans", sans-serif;
+$font-family-sans-serif: $open-sans;
+$presentation-heading-font: $open-sans;
+
+$presentation-h1-font-size: 1.5em;
+$presentation-h3-font-size: 0.75em;
+
+$indigo: #0E4A6C;
+$mustard: #BF9000;
+$munsell: #258EA6;
+$honeydew: #F1FAEE;
+
+$body-bg: $honeydew;
+$body-color: $indigo;
+$link-color: $munsell;
+
+$presentation-title-slide-text-align: left;
+
+/*-- scss:rules --*/
+
+.reveal section blockquote {
+  color: $mustard;
+}
+
+.reveal blockquote {
+  border-left-color: $indigo;
+}
+
+.reveal h2 {
+  font-size: 1.25em;
+  margin-bottom: 0.55em;
+}
+
+.reveal .slide aside {
+  color: $mustard;
+}
+
+.reveal p {
+  font-size: 0.95em;
+  line-height: 1.15em;
+}
+
+.right-aligned-text {
+  text-align: right;
+}

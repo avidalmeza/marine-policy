@@ -1,0 +1,171 @@
+---
+title: "Environmental monitoring, sovereignty, and survaillance"
+author: "Alessandra Vidal Meza"
+institute: "Bren School of Environmnetal Science & Managment, UC Santa Barbara"
+bibliography: src/references.bib 
+csl: src/ecology-letters.csl
+format:
+  revealjs:
+    hash-type: number
+    theme: [default, styles.scss]
+    embed-resources: true # All assets will be contained within HTML file
+---
+
+## {data-menu-title="Since time immemorial…"}
+
+Communities have monitored the Land[^1] (species, ecosystem services, and climate) with observation, since time immemorial [@kukutai_building_2016]
+
+<br>
+
+These observations (data) are **place-based** and require **protocol** (cultural and scientific) to become knowledge
+
+[^1]: Land as a proper noun; holds the "life and spirit" of all interdependent relations, like plants, water, animals, and humans [@liboiron_pollution_2021]
+
+## We gather data to produce knowledge
+
+Data is not knowledge, rather it’s discrete pieces of information that get chosen, then woven together, filled with meaning, and turned into knowledge
+
+![](images/monitoring.png){style="height: 15%; display: block; margin: 0 auto"}
+
+## Data are important because…
+
+- They assert (statistical) identity and self-determination
+- They wield power as a decision making force
+- "...[They are] synonymous with life in a modern society…" [@carroll_indigenous_2019]
+
+## In each monitoring system, management often decides…
+
+&nbsp; 1. By whom is the data collected?
+
+&nbsp; 2. Where is the data collected?
+
+&nbsp; 3. How is the data collected?
+
+&nbsp; 4. Where is the data stored after collection?
+
+![](images/management.png){style="display: block; margin: 0 auto"}
+
+## We often gather data to understand management
+
+Management influences monitoring by setting its purpose, designing data collection, transforming data to knowledge, and implementing its insight
+
+![](images/mgmnt_monitoring.png){style="display: block; margin: 0 auto"}
+
+## What is Indigenous data sovereignty?
+
+> "...An assertion of the rights and interests of Indigenous Peoples in relation to data about them, their territories, and their ways of life"
+
+::: {.right-aligned-text}
+@carroll_care_2020
+:::
+
+## What is Indigenous data sovereignty?
+
+![](images/sovereignty.png){style="display: block; margin: 0 auto"}
+
+## How is sovereignty exercised?
+
+Sovereignty is exercised through data governance, which harnesses tribal cultures, values, principles, and mechanisms to collect, store, and use data
+
+- **Data for governance**: "…Accurate, relevant, and timely data for policy and decision-making…" [@carroll_indigenous_2019]
+- **Governance of data**: "…Mechanisms to honor, protect, and control information both internally and externally…" [@carroll_indigenous_2019]
+
+## What is data governance?
+
+![](images/data_governance.png){style="width: 75s%; display: block; margin: 0 auto"}
+
+## External data relationships
+
+> “...Indigenous communities must [often] forgo having access to certain types of information about themselves or must rely on outsiders with the requisite resources to obtain this information”
+
+::: {.right-aligned-text}
+@kukutai_what_2016
+:::
+
+## Case study: Wabanaki Tribal Nations and Maine-eDNA
+
+The Maine-eDNA project at the University of Maine has collected samples across the state to better understand human disturbances to coastal macrosystems
+
+<br>
+
+In their data management, they partnered with Wabnaki Tribal Nations to add biocultural notices and labels to their data to govern how it can be access and used
+
+## External data relationships
+
+Data practices cannot be simple checkboxes as this can repeat or exacerbate remainders of colonialism
+
+<br>
+
+**Academia**
+: Reliant on soft money $\rightarrow$ grants are in short cycles
+
+**Industry**
+: Misaligned incentives $\rightarrow$ interest in bottom line
+
+**U.S. Government**
+: "Domestic dependent nations" $\neq$ tribal sovereignty
+
+::: {.right-aligned-text}
+@racine_indigenous_2022
+:::
+
+## True sovereignty requires relational obligation in monitoring
+
+> “...The question is not ‘what can I do with this data?’ but ‘to whom am I obliged with this data? What does this data and its data holder owe to community and Land, and how do I best meet those obligations in how this data is stored, shared (or not) and interpreted?’”
+
+::: {.right-aligned-text}
+@carroll_indigenous_2024
+:::
+
+## Land needs to be centered in each of these questions…
+
+&nbsp; 1. By whom is the data collected?
+
+&nbsp; 2. Where is the data collected?
+
+&nbsp; 3. How is the data collected?
+
+&nbsp; 4. Where is the data stored after collection?
+
+![](images/management.png){style="display: block; margin: 0 auto"}
+
+## Case study: Turtles in Cofan territory
+
+The Cofan community of Zabalo (Ecuador) work to manage the population of Arrau turtles (*Podocnemis expansa*) and yellow-spotted Amazon river turtles (*P. unifilis*), amid oil exploitation and commercial egg harvesting
+
+## Case study: Turtles in Cofan territory
+
+Since 1998, they work in partnership with the Field Museum of Natural History in Chicago to determine appropriate monitoring methods for estimating the size of the turtle populations, including:
+
+- Semi-structured interviews with local people
+- Visual census of turtles along the river (direct population count)
+- Visual census of turtle nests on community beaches (indirect population count)
+
+## Case study: Turtles in Cofan territory
+
+This data, collected from community-based monitoring, supported the biodiversity management decisions of the Fundación Sobrevivencia Cofán (FSC) to:
+
+- Prohibit turtle egg consumption 
+- Move turtle nests to raised beaches
+- Create artificial beaches and pools
+
+## But who gets to manage Land?
+
+> "Co-management means decision-making authority…Co-stewardship means one entity still has the decision-making authority."
+
+::: {.right-aligned-text}
+Melissa Hovey (2024)
+:::
+
+![](images/co-management.png){style="display: block; margin: 0 auto"}
+
+## Without sovereignty, monitoring becomes survaillance
+
+Without management, proper consultation or dialogue, monitoring can, accidentally or intentionally, infringe privacy and become a tool of policing, especially of traditional management 
+
+<br>
+
+Co-management systems allows for a stronger tribal presence and decision-making power, thus virtually guaranteeing data sovereignty and governance
+
+## References
+<!-- References are populated from src/references.bib on render -->
