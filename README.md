@@ -1,1 +1,0 @@
-# Environmental monitoring, sovereignty, and survaillance
